@@ -1,0 +1,8 @@
+.ai-ghost-suggestion {
+  position: absolute;
+  color: #9ca3af;
+  pointer-events: none;
+  z-index: 2147483647;
+  white-space: pre;
+  opacity: 0.85;
+}
